@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Luis 👋
 
 <!--
 **luisccc99/luisccc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm happy to be working on a really interesting project called **GuauGuau**, to help stray dogs in Mexico not gonna dox myself, but the technologies and the idea are superb (Rails and Android ❤️), if you wanna help you can check [this](https://github.com/luisccc99/guau-guau) and [this](https://github.com/luisccc99/guau-guau-back) repositories.
+In these couple of months, I've been learning design patterns and reading some books to become a better software developer (yeah, it's a thing). I like learning new things by building applications or solving funny problems.
+If you want to send me a message, you can follow me on [Twitter](twitter.com/luisccc_99).
+

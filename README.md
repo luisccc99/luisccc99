@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm happy to be working on a really interesting project called **GuauGuau**, to help stray dogs in Mexico not gonna dox myself, but the technologies and the idea are superb (Rails, Android, and dogs ❤️), if you wanna help you can check [this](https://github.com/luisccc99/guau-guau) and [this](https://github.com/luisccc99/guau-guau-back) repositories.
+I'm happy to be working on a really interesting project called **GuauGuau**, to help stray dogs in Mexico not gonna dox myself, but the technologies and the idea are superb (Rails, Android, and dogs ❤️), if you wanna help you can check [this](https://github.com/luisccc99/guau-guau) or [this](https://github.com/luisccc99/guau-guau-back) repository.
 
 In these couple of months, I've been learning design patterns and reading some books to become a better software developer (yeah, it's a thing). I like learning new things by building applications or solving funny problems.
 

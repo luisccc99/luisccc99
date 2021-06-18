@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I'm happy to be working on a really interesting project called **GuauGuau**, to help stray dogs in Mexico not gonna dox myself, but the technologies and idea are superb (Rails, Android, and dogs ❤️), if you wanna help you can check [this](https://github.com/luisccc99/guau-guau) or [this](https://github.com/luisccc99/guau-guau-back) repository.
 
-In these couple of months, I've been learning design patterns and reading some books to become a better software developer (yeah, it's a thing). I like learning new things by building applications or solving funny problems.
+I'm currently learning how Spring Boot works (I think it's a superb framework for web apps) and doing some React Native projects [here](https://github.com/luisccc99/dear_react_native). I just finished one app (One Step Closer To Mars) where I fetch photos from some Mars Rovers (Curiosity, Spirit and Opportunity).
 
 If you want to send me a message or get in touch, you can follow me on [Twitter](https://twitter.com/luisccc_99).
 

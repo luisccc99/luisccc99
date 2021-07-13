@@ -17,5 +17,5 @@ I'm happy to be working on a really interesting project called **GuauGuau**, to 
 
 I'm currently learning how Spring Boot works (I think it's a superb framework for web apps) and doing some React Native projects [here](https://github.com/luisccc99/dear_react_native). I just finished one app (One Step Closer To Mars) where I fetch photos from some Mars Rovers (Curiosity, Spirit and Opportunity).
 
-If you want to send me a message or get in touch, you can follow me on [Twitter](https://twitter.com/luisccc_99).
+If you want to send me a message or get in touch, you can send me an [email](mailto:luisccc99@gmail.com)
 

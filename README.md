@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm happy to be working on a really interesting project called **GuauGuau**, to help stray dogs in Mexico not gonna dox myself, but the technologies and idea are superb (Rails, Android, and dogs ❤️), if you wanna help you can check [this](https://github.com/luisccc99/guau-guau) or [this](https://github.com/luisccc99/guau-guau-back) repository.
+I'm happy to be working on a really interesting project called **GuauGuau**, to help stray dogs in Mexico (not gonna dox myself), the technologies and idea are superb (Rails, Android, and dogs ❤️), if you wanna help you can check [this](https://github.com/luisccc99/guau-guau) or [this](https://github.com/luisccc99/guau-guau-back) repository.
 
 I'm currently learning how Spring Boot works (I think it's a superb framework for web apps) and doing some React Native projects [here](https://github.com/luisccc99/dear_react_native). I just finished one app (One Step Closer To Mars) where I fetch photos from some Mars Rovers (Curiosity, Spirit and Opportunity).
 
